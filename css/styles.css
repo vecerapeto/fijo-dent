@@ -13,6 +13,10 @@
 footer p {
   color: black !important;
 }
+#map {  width:100vw;
+        height:500px; }
+#map2 {  width:1320px;
+        height:480px; }
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
